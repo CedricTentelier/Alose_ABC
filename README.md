@@ -9,6 +9,8 @@ Les scripts correspondants sont dans les fichiers server.R et ui.R
 
 L'aide pour utiliser l'application est dans le fichier aide appli Alose_ABC.html
 
+Le fichier bulls_audio_&_temperature_Nivelle_2018.csv est le fichier de données concernant l'enregistrement des bulls et de la température sur la Nivelle en amont d'Uxondoa en 2018. Il peut être utilisé comme exemple pour faire tourner le modèle et pour aider l'utilisateur à formater son propre fichier de données.
+
 Le rapport dans lequel est présenté le modèle et l'expérience ayant servi à déterminer les paramètres décrivant le comportement individuel de reproduction est dans le fichier rapport_alose_AFB_INRA_2018_015_1.pdf
 
 
